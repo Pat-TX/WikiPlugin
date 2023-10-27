@@ -1,0 +1,8 @@
+name: WikiPlugin
+version: '1.0-SNAPSHOT'
+main: myplugin.wikiplugin.WikiPlugin
+api-version: '1.20'
+commands:
+  menu:
+    description: Opens the FermiumMC wiki.
+    usage: /menu
